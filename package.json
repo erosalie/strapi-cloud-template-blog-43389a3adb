@@ -1,5 +1,5 @@
 {
-  "name": "corporate-blog-template",
+  "name": "strapi-database",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -30,9 +30,6 @@
   },
   "author": {
     "name": "A Strapi developer"
-  },
-  "strapi": {
-    "uuid": "0f95dc7c-202b-4ab2-a874-3799d23b1640"
   },
   "engines": {
     "node": ">=18.0.0 <=20.x.x",
